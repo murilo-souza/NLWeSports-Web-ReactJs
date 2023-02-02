@@ -10,6 +10,7 @@
 <ul>
   <li><a href="https://axios-http.com/ptbr/docs/intro">Axios</a></li>
   <li><a href="https://www.radix-ui.com/">Radix UI</a></li>
+  <li><a href="https://tailwindcss.com/">Tailwind Css</a></li>
   <li><a href="https://phosphoricons.com/">Phosphor Icons</a></li>
  
 </ul>
